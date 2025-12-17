@@ -1,8 +1,11 @@
 **ACTIVATE_AUTOMATION_CODE**
 Version : 1.0
 
-This is a automation Code for reducing the time of creating a file. 
+This is a Python automation Code for reducing the time of creating a file. 
 It can finish around 2hrs of Manual Excel work into (30-90 seconds).
+
+Language Used: Python
+Libraries Used : Pandas, openpyxl, OS, Datetime, time 
 
 **PRE-REQUISITES FOR THE CODE TO RUN**
 
